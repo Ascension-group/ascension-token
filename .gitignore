@@ -1,0 +1,9 @@
+cache/
+out/
+docs/
+broadcast/
+deployments/
+
+.env
+
+solstat_report.md
